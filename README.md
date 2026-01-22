@@ -4,10 +4,10 @@ VERITAS is a full-stack web application designed to enhance women’s safety thr
 The platform emphasizes security, accessibility, and reliability, making it suitable for real-world deployment.
 
 KEY FEATURES:
-Secure incident reporting system
-Women safety awareness & support resources
-Privacy-first architecture
-Scalable and modular codebase
+Secure incident reporting system,
+Women safety awareness & support resources,
+Privacy-first architecture,
+Scalable and modular codebase,
 Clean and responsive UI
 
 TECH STACK:
@@ -23,9 +23,9 @@ Database & Auth-
 Supabase
 
 SECURITY & PRIVACY:
-Environment variables managed securely
-.env files excluded using .gitignore
-GitHub Secret Scanning enabled
+Environment variables managed securely,
+.env files excluded using .gitignore,
+GitHub Secret Scanning enabled,
 No sensitive credentials committed to the repository
 
 PROJECT STRUCTURE:
@@ -46,8 +46,8 @@ http://localhost:5173
 
 USE CASE:
 This project was built as part of an academic / hackathon initiative to demonstrate:
-Secure system design
-Full-stack web development
+Secure system design,
+Full-stack web development,
 Practical application of women safety technology
 
 LICENSE:
