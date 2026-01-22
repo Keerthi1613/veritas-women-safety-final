@@ -1,4 +1,5 @@
 VERITAS – Women Safety & Digital Empowerment Platform
+
 VERITAS is a full-stack web application designed to enhance women’s safety through secure digital reporting, awareness tools, and privacy-focused system design.
 The platform emphasizes security, accessibility, and reliability, making it suitable for real-world deployment.
 
