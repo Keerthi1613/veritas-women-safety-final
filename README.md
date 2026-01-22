@@ -50,4 +50,6 @@ Secure system design
 Full-stack web development
 Practical application of women safety technology
 
+LICENSE:
+This project is licensed under the MIT License.
 
